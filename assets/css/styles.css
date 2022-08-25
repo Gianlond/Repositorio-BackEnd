@@ -18,6 +18,10 @@
     color: rgb(223, 25, 25);
     background-image: url(../img/Renamon.png);
 }
+
+.card{
+    width: auto;
+}
 /*#000 hex color - hexadecimal*/
 /*px*/
 /*text="red"*/
